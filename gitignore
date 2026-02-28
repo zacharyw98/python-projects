@@ -1,0 +1,11 @@
+config.json
+*.json
+!example_config.json
+__pycache__/
+*.pyc
+*.pyo
+.env
+settings.json
+aida_scm_memory.json
+savegame.json
+research_log.csv
